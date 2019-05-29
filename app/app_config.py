@@ -1,0 +1,4 @@
+SECRET_KEY="THIS!IS@A#SECRET$KEY^"
+DEBUG=True
+SQLALCHEMY_DATABASE_URI="mysql+pymysql://test:test_password@host_name/db_name"
+SQLALCHEMY_TRACK_MODIFICATIONS=False
