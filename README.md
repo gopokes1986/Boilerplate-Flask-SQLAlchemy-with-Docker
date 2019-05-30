@@ -1,4 +1,4 @@
-# Flask-SQLAlchemy-Boilerplate-with-Docker
+# Boilerplate-Flask-SQLAlchemy-with-Docker
 
 This is a base template of Flask application containerized using Docker.
 
