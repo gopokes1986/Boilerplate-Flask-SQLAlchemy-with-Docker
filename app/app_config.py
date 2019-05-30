@@ -1,4 +1,4 @@
 SECRET_KEY="THIS!IS@A#SECRET$KEY^"
 DEBUG=True
-SQLALCHEMY_DATABASE_URI="mysql+pymysql://root:rkswldi86@127.0.0.1/test_db"
+SQLALCHEMY_DATABASE_URI="mysql+pymysql://test_user:rkswldi86@192.168.0.9:3306/test_db"
 SQLALCHEMY_TRACK_MODIFICATIONS=False
