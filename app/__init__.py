@@ -14,3 +14,5 @@ db = SQLAlchemy(app)
 from app.base import base_blueprint
 
 app.register_blueprint(base_blueprint)
+
+
