@@ -1,4 +1,4 @@
-# Boilerplate-Flask-SQLAlchemy-with-Docker
+# Boilerplate for Flask + SQLAlchemy + Gunicorn + Docker
 
 This is a base template of Flask application containerized using Docker (using Python 3.7)
 
