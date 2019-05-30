@@ -1,6 +1,6 @@
 # Boilerplate-Flask-SQLAlchemy-with-Docker
 
-This is a base template of Flask application containerized using Docker.
+This is a base template of Flask application containerized using Docker (using Python 3.7)
 
 The Flask application have a base template to connect to Sqlalchemy back-end and it also has the base template for Blueprint too.
 
